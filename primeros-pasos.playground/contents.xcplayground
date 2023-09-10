@@ -3,5 +3,6 @@
     <pages>
         <page name='01_hello_world'/>
         <page name='02_var_let'/>
+        <page name='03_numbers'/>
     </pages>
 </playground>
