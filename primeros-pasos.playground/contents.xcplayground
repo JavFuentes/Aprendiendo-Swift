@@ -6,5 +6,6 @@
         <page name='03_numbers'/>
         <page name='04_data_types'/>
         <page name='05_errors'/>
+        <page name='06_operations'/>
     </pages>
 </playground>

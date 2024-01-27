@@ -44,3 +44,5 @@ let integerPi = Int(piNum)
 
 typealias AudioSample = UInt16
 var maxAmplitude = AudioSample.max // UInt16.max
+
+
