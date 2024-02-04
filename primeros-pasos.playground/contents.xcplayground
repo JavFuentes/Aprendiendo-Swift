@@ -8,5 +8,6 @@
         <page name='05_errors'/>
         <page name='06_operations'/>
         <page name='07_strings'/>
+        <page name='08_collections'/>
     </pages>
 </playground>
