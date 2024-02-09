@@ -9,5 +9,6 @@
         <page name='06_operations'/>
         <page name='07_strings'/>
         <page name='08_collections'/>
+        <page name='09_control_flow'/>
     </pages>
 </playground>
